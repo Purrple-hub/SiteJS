@@ -84,16 +84,5 @@ The package can be installed via pip install . (after creating pyproject.toml).
 
 The project is production‑ready for development use; for high‑traffic production, we recommend fronting with nginx/caddy.
 
-What’s Next (Optional Roadmap)
-Add incremental builds for large sites
-
-WebSocket‑based instant reload
-
-Let’s Encrypt integration for production SSL
-
-Single‑binary packaging (PyInstaller)
-
-More deployment targets (e.g., Netlify, Vercel)
-
 Bottom line: SiteJS.py is a complete, modern, Python‑based Small Web tool that fills the gap left by Site.js. It is well‑tested, extensible, and ready for you to clone, run, and build your own sites.
 
