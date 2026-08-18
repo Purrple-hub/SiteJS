@@ -60,20 +60,6 @@ sitejs deploy --target rsync --destination user@host:/path
 
 ---
 
-## Project Structure
-
-```
-mysite/
-├── pages/          # Markdown pages (auto‑routed)
-├── templates/      # Jinja2 templates
-├── public/         # Static assets (CSS, JS, images)
-├── data/           # JSDB JSON files
-├── dist/           # Built static output
-└── sitejs.toml     # Project configuration
-```
-
----
-
 ## Architecture
 
 ```
