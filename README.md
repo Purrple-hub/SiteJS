@@ -195,22 +195,6 @@ SOFTWARE.
 ```
 
 ---
-
-## CODE REVIEW & RECOMMENDATIONS (for the README itself)
-
-- The FAQ now covers the most common user questions – good.
-- Add a "Troubleshooting" section if you get many issues, but it's fine for now.
-- Consider adding badges (PyPI version, tests, license) at the top for visual appeal.
-- The architecture diagram could be expanded with arrows or a Mermaid chart, but plain text is sufficient.
-
----
-
-## DESCRIPTION
-
-Full README with intro, quick start, CLI, structure, architecture, features, FAQ, testing, status, contributing, and license – plus a separate MIT LICENSE file.
-
----
-
 ## TECHNICAL EXPLANATION
 
 The README guides users through installation, usage, and internals, while the FAQ addresses practical concerns; the LICENSE provides permissive open‑source terms. Both files are ready to commit.
