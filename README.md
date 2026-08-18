@@ -2,7 +2,7 @@
 
 SiteJS.py is a **Python-based “Small Web” construction set** inspired by the now‑deprecated Site.js (Node.js). It provides a **zero‑configuration development server, static site generator, live reload, automatic SSL, a built‑in JSON database (JSDB), and deployment tools** – all in a single, self‑contained package.
 
-### What We Built
+### What We Built (Deepseek made the full project, i edited the entire Docker file and gave it almost 42 tests...)
 
 1. **Full Production Code** – `sitejs.py` (4,000+ lines) is a complete, dependency‑managed Python package that implements:
    - **HTTP/HTTPS server** (with self‑signed SSL via `cryptography`)
